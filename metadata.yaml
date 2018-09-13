@@ -1,0 +1,34 @@
+_repo: No-Substitutions_51350
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Johnson
+    gutenberg_agent_id: '35613'
+    url: http://www.gutenberg.org/2009/agents/35613
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Prisons -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: No Substitutions
+url: http://www.gutenberg.org/ebooks/51350
